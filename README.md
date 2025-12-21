@@ -39,7 +39,7 @@ java src.Main
 ```
 
 ## **D. Screenshots**
-<img width="882" height="242" alt="изображение" src="https://github.com/user-attachments/assets/3bf27f9f-f697-4177-81f6-8414d1843379" />
+![alt text](https://github.com/Kuman37/assignment1-student-management/blob/master/docs/screenshots/output.png)
 
 ## **E. Reflection**
 
