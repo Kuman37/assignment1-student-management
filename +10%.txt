@@ -1,0 +1,5 @@
+Abstraction is a process, which is used to hide certain details and showing only needed features. Answers 'what' an object does but not 'how' it does
+
+Encapsulation is about combining data and methods in a single module, hiding them and protects from outside interference.
+
+Data hiding is about concealing data. It is some kind of technique to secure data.
